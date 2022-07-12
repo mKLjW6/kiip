@@ -1,6 +1,6 @@
 {
-    "name": "XrayHeroku",
-    "description": "xray websocket proxy on heroku",
+    "name": "kiip",
+    "description": "kiip",
     "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
@@ -29,6 +29,6 @@
         }
     },
     "website": "https://github.com/kexuekexue/HerokuXrayTrojanGo",
-    "repository": "https://github.com/kexuekexue/HerokuXrayTrojanGo",
+    "repository": "",
     "stack": "container"
 }
